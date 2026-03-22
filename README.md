@@ -20,7 +20,7 @@ Full-Stack Engineer with **7+ years** delivering scalable web applications, clou
 
 > 💼 Most of my production work lives on my work account. What you see here is just a slice of what I build every day.
 
-- 🏢 Currently: **Senior Engineer @ AREA15** — architecting infrastructure for 6+ entertainment & e-commerce sites serving **20,000+ customers/day**
+- 🏢 Currently: **Senior Engineer @ AREA15** — architecting infrastructure for 10+ entertainment & e-commerce sites serving **20,000+ customers/day**
 - ☁️ AWS Certified Developer (2024)
 - 🎓 BS Computer Science + BS Business Administration — City University of Seattle
 - 🤖 AI-first developer: cutting feature delivery time **~35%** with AI tooling
