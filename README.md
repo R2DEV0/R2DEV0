@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Engineer &amp; AI-Augmented Developer</b><br/>
-  Senior Engineer @ <a href="https://area15.com">AREA15</a> · Las Vegas, NV / Remote<br/>
+  Senior Engineer @ <a href="https://area15.com">AREA15</a> · Vancouver, WA<br/>
   <a href="https://kevtech.net">kevtech.net</a> · <a href="https://linkedin.com/in/kevin-chancey">LinkedIn</a>
 </p>
 
