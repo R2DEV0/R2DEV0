@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Engineer &amp; AI-Augmented Developer</b><br/>
-  Senior Engineer @ <a href="https://area15.com">AREA15</a> · Vancouver, WA<br/>
+  Senior Engineer @ <a href="https://area15.com">AREA15</a> · Las Vegas, NV / Remote<br/>
   <a href="https://kevtech.net">kevtech.net</a> · <a href="https://linkedin.com/in/kevin-chancey">LinkedIn</a>
 </p>
 
@@ -48,6 +48,9 @@ Full-Stack Engineer with **7+ years** delivering scalable web applications, clou
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 
 **APIs & Integrations**
 
